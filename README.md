@@ -18,9 +18,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=' ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/98568241/193395410-f785f333-628e-4d98-a26b-504910e4af42.gif)'
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/98568241/193395410-f785f333-628e-4d98-a26b-504910e4af42.gif)'
 
-     title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ezgif.com  
